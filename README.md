@@ -50,7 +50,7 @@ Set All Environmental variables before deploy. -  [Instructions](#-configuring-e
 ### ✅ Serverless - Free
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Malith-Rukshan/Auto-Reaction-Bot)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/tamilrusher1/Auto-Reaction-Bot.git)
 
 </br>
 
